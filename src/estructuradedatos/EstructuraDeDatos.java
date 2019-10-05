@@ -7,7 +7,7 @@ package estructuradedatos;
 
 /**
  *
- * @author adrianevil
+ * @author Dr. Adrián Sevilla
  */
 public class EstructuraDeDatos {
 
